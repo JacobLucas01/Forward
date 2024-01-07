@@ -1,1 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "JXVA5WXT99.com.jacoblucas.Forward-App"
+        ],
+        "components": [
+          {
+            "/": "/plaid/redirect/*",
+            "comment": "OAuth Redirect from Plaid"
+          }
+        ]
+      }
+    ]
+  }
+}
 
